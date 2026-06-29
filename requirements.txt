@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+optional
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-openai
+
+langchain-google-genai
+google-generativeai
+
+langchain-huggingface
+
+python-dotenv
